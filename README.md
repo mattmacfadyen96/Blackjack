@@ -2,6 +2,8 @@
 
 # How to run this project
 
+This is my second practice Python project. 
+
 1.) You must have python installed on your computer 
 
 2.) Run python BlackJack.py
